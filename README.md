@@ -1,9 +1,12 @@
-# VeriChain Sovereign
-## Autonomous AI Agent Network for Artisan Commerce on Sei
+# VeriChain Sovereign - Complete SEI AI Agent Network
 
-[![Sei Network](https://img.shields.io/badge/Built%20on-Sei%20Network-blue)](https://seinetwork.io)
-[![AI Agents](https://img.shields.io/badge/AI-Autonomous%20Agents-green)](https://github.com/ZubeidHendricks/verichainX-SEI)
-[![DeFi](https://img.shields.io/badge/Track-DeFi%20%26%20Payments-orange)](https://yei.finance)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
+[![Rust](https://img.shields.io/badge/Rust-1.70+-orange.svg)](https://rustlang.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-00a393.svg)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/React-18+-61dafb.svg)](https://reactjs.org)
+[![Sei](https://img.shields.io/badge/Sei-Network-purple.svg)](https://sei.io)
 
 ---
 
