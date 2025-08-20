@@ -1,0 +1,12 @@
+{
+  "name": "sei-connection-test",
+  "version": "1.0.0",
+  "description": "Epic 1.1.1 Sei Network Connection Test",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@cosmjs/stargate": "^0.29.0"
+  }
+}
