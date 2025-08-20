@@ -1,0 +1,11 @@
+/home/zubeid/sei/africhain/contracts/agent-registry/target/debug/deps/ed25519_zebra-5d00b0224522169c.d: /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/lib.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/batch.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/error.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/signature.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/signing_key.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/verification_key.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/../README.md
+
+/home/zubeid/sei/africhain/contracts/agent-registry/target/debug/deps/libed25519_zebra-5d00b0224522169c.rmeta: /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/lib.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/batch.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/error.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/signature.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/signing_key.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/verification_key.rs /home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/../README.md
+
+/home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/lib.rs:
+/home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/batch.rs:
+/home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/error.rs:
+/home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/signature.rs:
+/home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/signing_key.rs:
+/home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/verification_key.rs:
+/home/zubeid/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-3.1.0/src/../README.md:
