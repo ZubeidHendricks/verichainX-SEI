@@ -15,7 +15,7 @@
 Empower global artisans with sovereign AI agents that handle their entire commerce lifecycle autonomously, enabling them to focus on creating while their AI representatives manage sales, payments, and market expansion 24/7.
 
 ### 🏆 Competition Track
-**DeFi and Payments Track** - Powered by Yei Finance ($60K Prize Pool)
+**DeFi and Payments Track** - Powered by Yei Finance 
 
 ---
 
